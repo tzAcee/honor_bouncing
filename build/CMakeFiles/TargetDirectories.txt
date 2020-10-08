@@ -1,0 +1,3 @@
+/home/fleexo/_dev/c++/honor_showcase/build/CMakeFiles/rebuild_cache.dir
+/home/fleexo/_dev/c++/honor_showcase/build/CMakeFiles/edit_cache.dir
+/home/fleexo/_dev/c++/honor_showcase/build/CMakeFiles/honor.dir

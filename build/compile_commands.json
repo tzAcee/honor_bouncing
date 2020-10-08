@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/fleexo/_dev/c++/honor_showcase/build",
+  "command": "/usr/bin/c++ -I../inc -g -o CMakeFiles/honor.dir/inc/Jumper.cpp.o -c /home/fleexo/_dev/c++/honor_showcase/inc/Jumper.cpp",
+  "file": "/home/fleexo/_dev/c++/honor_showcase/inc/Jumper.cpp"
+},
+{
+  "directory": "/home/fleexo/_dev/c++/honor_showcase/build",
+  "command": "/usr/bin/c++ -I../inc -g -o CMakeFiles/honor.dir/inc/Manager.cpp.o -c /home/fleexo/_dev/c++/honor_showcase/inc/Manager.cpp",
+  "file": "/home/fleexo/_dev/c++/honor_showcase/inc/Manager.cpp"
+},
+{
+  "directory": "/home/fleexo/_dev/c++/honor_showcase/build",
+  "command": "/usr/bin/c++ -I../inc -g -o CMakeFiles/honor.dir/main.cpp.o -c /home/fleexo/_dev/c++/honor_showcase/main.cpp",
+  "file": "/home/fleexo/_dev/c++/honor_showcase/main.cpp"
+}
+]
